@@ -23,4 +23,4 @@ Socials
 
 My GitHub Stats
 
-<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreshalac)](https://github.com/andreshalac/github-readme-stats)">
+"[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreshalac)](https://github.com/andreshalac/github-readme-stats)"
